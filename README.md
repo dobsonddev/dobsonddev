@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm Dobson, welcome to my repo 👋
 
 - 🔭 I’m currently working on growing as a young dev
 - 👯 I’m looking to collaborate on growth-oriented projects
