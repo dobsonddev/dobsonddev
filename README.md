@@ -1,7 +1,7 @@
 ### Hi there! I'm Dobson, welcome to my repo 👋
 
 - 🔭 I’m currently working on growing as a young dev
-- 👯 I’m looking to collaborate on growth-oriented projects
+- 👯 I’m always looking to collaborate and contribute to interesting projects!
 - 💬 Ask me about: Whatever!
 - 📫 How to reach me: dobsonddev@gmail.com
 - 😄 Pronouns: He/Him
