@@ -4,5 +4,4 @@
 - 👯 I’m always looking to collaborate and contribute to interesting projects!
 - 💬 Ask me about: Whatever! I love sports, nature and movies
 - 📫 How to reach me: jdobsond3@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love peppers :)
+- ⚡ Fun facts: I love peppers and can't do a backflip
