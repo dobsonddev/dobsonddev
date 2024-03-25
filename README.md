@@ -13,4 +13,4 @@
 
 - 📫 How to reach me: jdobsond3@gmail.com
 
-- ⚡ Fun facts: I love peppers and fly-fishing and am the only recorded person the USA to get staph infection from a guinea pig
+- ⚡ Fun facts: I love peppers and fly-fishing and am the only recorded person the USA to get staph infection from a guinea pig (suuuuuuper fun 10/10 recommend it)
