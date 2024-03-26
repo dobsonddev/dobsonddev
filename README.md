@@ -6,7 +6,7 @@
 
 - Techs: I have the most experience in a **Next.js/Prisma/PostgreSQL/AWS** stack, but have professional and personal experience across many other stacks such as:
   - Angular 16/Apollo/GraphQL<--->Spring/MongoDB/AWS (1yr @ Savvas Learning Company)
-  - React<---->Flask/OpenCV/In-house ML models/Supabase<----->DJI Matrice Drone/DJI Mobile SDK (8mo @ Mercedes Benz USA + IFA Group)
+  - React/Axios<---->Flask/OpenCV/In-house ML models/Supabase<----->DJI Matrice Drone/DJI Mobile SDK (8mo @ Mercedes Benz USA + IFA Group)
   - React/Axios<-->Django/PSQL/AWS (6 months @ Vision Software Solutions)
   - Flutter<--->Firebase (Personal and School Projects)
   - Expo/React Native<--->Supabase (Personal and School Projects)
