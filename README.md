@@ -9,8 +9,8 @@
   - React/Axios<---->Flask/OpenCV/In-house ML models/Supabase<----->DJI Matrice Drone/DJI Mobile SDK (8mo @ Mercedes Benz USA + IFA Group)
   - React/Axios<-->Django/PSQL/AWS (6 months @ Vision Software Solutions)
   - Next.js/TailwindCSS<---->Prisma/PostgreSQL/AWS (Personal and School Projects, **I really love this stack**)
-  - Flutter<--->Firebase (Personal and School Projects)
-  - Expo/React Native<--->Supabase (Personal Project)
+  - Flutter<--->Supabase (Personal and School Projects)
+  - Expo/React Native<--->Firebase (Personal Project)
 
 - 👯 I’m always looking to collaborate and contribute to interesting projects!
 
