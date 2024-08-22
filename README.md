@@ -1,6 +1,6 @@
 ### I'm Dobson, welcome to my repo 👋
 
-- 🔭 I’m love building real-world solutions through generalized, scalable systems. I enjoy collaborative, dynamic work environments that are focused on building healthy, scalable, generalized systems with interesting real world applications - whether it be full-stack webapp application development, cloud/data engineering, or an in-house computer vision model being implemented into a jetson nano-equipped drone fleet to solve inefficient inventory tracking processes.
+- 🔭 I’m love building real-world solutions through generalized, scalable systems. I enjoy collaborative, dynamic work environments that are focused on building long-term solutions to high-impact problems - whether it be full-stack webapp application development, cloud/data engineering, or an in-house computer vision model being implemented into a jetson nano-equipped drone fleet to solve inefficient inventory tracking processes.
 
 - Techs: I have professional and personal full-stack experience across a wide array of modern technologies:
   - Angular 16/Apollo/GraphQL<--->Spring/MongoDB/AWS (1yr @ Savvas Learning Company)
