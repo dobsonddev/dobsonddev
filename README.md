@@ -1,12 +1,16 @@
-### I'm Dobson, welcome to my repo 👋
+<h1 align="center">Hi 👋, I'm Dobson!</h1>
+<h3 align="center">A passionate full-stack / cloud developer located somewhere in the USA!</h3>
 
-- 🔭 I’m love building real-world solutions through generalized, scalable systems. I enjoy collaborative, dynamic work environments that are focused on building long-term solutions to high-impact problems - whether it be full-stack webapp application development, cloud/data engineering, or an in-house computer vision model being implemented into a jetson nano-equipped drone fleet to solve inefficient inventory tracking processes.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dobsonddev&label=Profile%20views&color=0e75b6&style=flat" alt="dobsonddev" /> </p>
 
-- Techs: I have professional and personal full-stack experience across a wide array of modern technologies:
-  - Angular 16/Apollo/GraphQL<--->Spring/MongoDB/AWS (1yr @ Savvas Learning Company)
+- 🔭 I love building real-world solutions through generalized, scalable systems. I enjoy collaborative, dynamic work environments that are focused on building long-term solutions to high-impact problems - whether it be full-stack webapp application development, cloud/data engineering, or an in-house computer vision model being implemented into a jetson nano-equipped drone fleet to solve inefficient inventory tracking processes.
+
+- Techs: I have professional and personal full-stack / cloud engineering experiences across a wide array of modern technologies:
+  - React MFEs <---> Express(Node.js)/PostgreSQL/AWS (1yr @ Savvas Learning Company)
+  - Angular 16/Apollo/GraphQL<--->Spring/MongoDB/AWS (0.5yr @ Savvas Learning Company)
   - React/Axios<---->Flask/OpenCV/In-house ML models/Supabase<----->DJI Matrice Drone/DJI Mobile SDK (8mo @ Mercedes Benz USA + IFA Group)
   - React/Axios<-->Django/PSQL/AWS (6 months @ Vision Software Solutions)
-  - Next.js/TailwindCSS<---->Prisma/PostgreSQL/AWS (Personal and School Projects, **I really love this stack**)
+  - Next.js/TailwindCSS<---->Prisma/PostgreSQL/AWS (Personal and School Projects, **love this stack for personal projects**)
   - Flutter<--->Supabase (Personal and School Projects)
   - Expo/React Native<--->Firebase (Personal Project)
 
